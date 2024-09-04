@@ -13,7 +13,7 @@ We are scraping data from the following job websites:
 
 ## Methodology
 
-![Data Pipeline Architecture](https://raw.githubusercontent.com/Kittisak-M/Data/15877dcd
+![Data Pipeline Architecture](https://raw.githubusercontent.com/Kittisak-M/Data/15877dcd)
 
 ### 1. Data Collection
 - **Scraping**: Using Python libraries such as BeautifulSoup and Selenium to extract job postings from the websites listed above.
