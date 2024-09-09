@@ -20,7 +20,7 @@ We are scraping data from the following job websites:
 - **Automation**: Scripts are automated to collect fresh data daily using ron jobs (Linux) or Task Scheduler (Windows).
 
 ### 2. Data Storage
-- **Database/Spreadsheet**: Collected data is stored in a structured format, either in a database (e.g., SQLite, PostgreSQL) or in spreadsheets stored on cloud drives (e.g., Google Drive, OneDrive).
+- **Database/Spreadsheet**: Collected data is stored in a structured format, either in a database or in spreadsheets stored on cloud drives (e.g., Google Drive, OneDrive).
 - **Version Control**: The project uses Git for version control, ensuring that the data and scripts are updated and managed efficiently.
 
 ### 3. Daily Data Updates
