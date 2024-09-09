@@ -1,4 +1,4 @@
-# Job Scraping and Analysis Project
+# Data Job Market Analytics
 
 ## Project Overview
 This project aims to collect job postings data from various job portals, store it systematically, and analyze trends in job postings. The data collected helps identify demand in specific roles, skills, and locations, providing valuable insights for job seekers and companies.
