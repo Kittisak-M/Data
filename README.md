@@ -13,14 +13,14 @@ We are scraping data from the following job websites:
 
 ## Methodology
 
-![Data Pipeline Architecture](https://github.com/Kittisak-M/Data/blob/main/data_pipeline_architecture.png)
+
 
 ### 1. Data Collection
 - **Scraping**: Using Python libraries such as BeautifulSoup and Selenium to extract job postings from the websites listed above.
 - **Automation**: Scripts are automated to collect fresh data daily using Task Scheduler.
 
 ### 2. Data Storage
-- **Database/Spreadsheet**: Collected data is stored in a structured format, either in a database or in spreadsheets stored on cloud drives (e.g., Google Drive, OneDrive).
+- **Database/Spreadsheet**: Collected data is stored in a structured format, either in a database or in spreadsheets stored on cloud drives.
 - **Version Control**: The project uses Git for version control, ensuring that the data and scripts are updated and managed efficiently.
 
 ### 3. Daily Data Updates
